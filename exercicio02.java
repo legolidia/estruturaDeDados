@@ -1,59 +1,39 @@
 import java.util.Scanner;
 
 class exercicio02 {
+  /**
+   * @param args
+   */
   public static void main(String[] args) {
-    Scanner s = new Scanner(System.in);
-    int h1, min1, s1;
+    Scanner scan = new Scanner(System.in);
 
     System.out.println("Digite o horário de PARTIDA:");
-
-    System.out.println("Hora:");
-    h1 = s.nextInt();
-
-    System.out.println("Minutos:");
-    min1 = s.nextInt();
-
-    System.out.println("Segundos:");
-    s1 = s.nextInt();
-
-    int h2, min2, s2;
+    String T1 = scan.nextLine();
+    String arr[] = T1.split(":");
+    int t1 = 0;
+    t1 += Integer.parseInt(arr[0]) * 3600;
+    t1 += Integer.parseInt(arr[1]) * 60;
+    t1 += Integer.parseInt(arr[2]);
 
     System.out.println("Digite o horário de CHEGADA:");
+    String T2 = scan.nextLine();
+    arr = T2.split(":");
+    int t2 = 0;
+    t2 += Integer.parseInt(arr[0]) * 3600;
+    t2 += Integer.parseInt(arr[1]) * 60;
+    t2 += Integer.parseInt(arr[2]);
 
-    System.out.println("Hora:");
-    h2 = s.nextInt();
+    int tF = t2 - t1;
+    int h = tF / 3600;
+    int min = (tF % 3600) / 60;
+    int s = (tF % 3600) % 60;
 
-    System.out.println("Minutos:");
-    min2 = s.nextInt();
+    float total = h * 10 + min * 0.2f + s * 0.02f;
 
-    System.out.println("Segundos:");
-    s2 = s.nextInt();
+    System.out.format("A viagem começou às %s e terminou às %s.\n", T1, T2);
 
-    int hAux = h2;
-    int minAux = min2;
-    int sAux = s2;
-
-    if(min1>min2){
-      minAux += 60;
-      hAux -= 1;
-    }
-
-    if(s1>s2){
-      sAux += 60;
-      minAux -=1;
-    }
-
-    int hDelta, minDelta, sDelta;
-    hDelta = hAux - h1;
-    minDelta = minAux - min1;
-    sDelta = sAux - s1;
-
-    float valorTotal = hDelta*10 + minDelta*0.2f + sDelta*0.02f;
-
-
-    System.out.format("A viagem começou às %d:%d:%d e terminou às %d:%d:%d.\n", h1, min1, s1, h2, min2, s2);
-    System.out.format("A duração da viagem foi de %d horas, %d minutos e %d segundos, totalizando R$%.2f.", hDelta, minDelta, sDelta, valorTotal);
-
+    System.out.format("A duração da viagem foi de %d horas, %d minutos e %d segundos, totalizando R$%.2f.", h, min, s,
+        total);
 
   }
 }

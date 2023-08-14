@@ -7,17 +7,12 @@ public class exercicio03 {
 
         n = s.nextInt();
 
-        double e = 1f;
+        double e = 1.0f;
         int fat = 1;
-        int num;
 
         for (int i = 1; i <= n; i++) {
-            num = 1 / i;
-            fat = 1;
-            for (int j = num; j > 0; j--)
-                fat *= num;
-
-            e += fat;
+            fat *= i;
+            e += 1.0 / fat;
         }
 
         System.out.println(e);

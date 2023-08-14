@@ -5,7 +5,7 @@ class exercicio01 {
     Scanner s = new Scanner(System.in);
     int M = 0; // M é a quantidade de tanques cilíndricos
 
-    System.out.println("Digite a quantidade de tanques cilíndricos: ");
+    System.out.print("Digite a quantidade de tanques cilíndricos: ");
     M = s.nextInt();
 
     float h = 0, r = 0, volume = 0, volumeTotal = 0;
@@ -19,7 +19,7 @@ class exercicio01 {
     volume = (float) (Math.PI * Math.pow(r, 2) * h);
     volumeTotal = volume * M;
 
-    float barris = volumeTotal / 200;
+    float barris = volumeTotal / 0.2f;
 
     System.out.println("Sao necessarios " + Math.ceil(barris) + " barris de petroleo de 200L para encher os tanques");
 
