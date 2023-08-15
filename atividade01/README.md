@@ -50,8 +50,7 @@ Prof. Dr. Ivan Carlos Alcântara de Oliveira
     ```
     
     Teste:
-    
-    ![Untitled](Aula%201%20-%20Exerci%CC%81cios%202b40ccf90a5a42758c9f5c3d100a697e/Untitled.png)
+    ![Untitled](README/Untitled.png)
     
 
 - Exercício 2
@@ -96,8 +95,7 @@ Prof. Dr. Ivan Carlos Alcântara de Oliveira
     ```
     
     Teste:
-    
-    ![Captura de Tela 2023-08-14 às 21.03.57.png](Aula%201%20-%20Exerci%CC%81cios%202b40ccf90a5a42758c9f5c3d100a697e/Captura_de_Tela_2023-08-14_as_21.03.57.png)
+    ![Captura de Tela 2023-08-14 às 21.03.57.png](README/Captura_de_Tela_2023-08-14_as_21.03.57.png)
     
 - Exercício 3
     
@@ -123,8 +121,8 @@ Prof. Dr. Ivan Carlos Alcântara de Oliveira
         }
     }
     ```
-    
-    ![Captura de Tela 2023-08-14 às 21.04.50.png](Aula%201%20-%20Exerci%CC%81cios%202b40ccf90a5a42758c9f5c3d100a697e/Captura_de_Tela_2023-08-14_as_21.04.50.png)
+  Teste:
+    ![Captura de Tela 2023-08-14 às 21.04.50.png](README/Captura_de_Tela_2023-08-14_as_21.04.50.png)
     
 
 - Exercício 4
@@ -152,8 +150,8 @@ Prof. Dr. Ivan Carlos Alcântara de Oliveira
       }
     }
     ```
-    
-    ![Captura de Tela 2023-08-14 às 21.07.38.png](Aula%201%20-%20Exerci%CC%81cios%202b40ccf90a5a42758c9f5c3d100a697e/Captura_de_Tela_2023-08-14_as_21.07.38.png)
+    Teste:
+    ![Captura de Tela 2023-08-14 às 21.07.38.png](README/Captura_de_Tela_2023-08-14_as_21.07.38.png)
     
 
 - Exercício 5
@@ -199,4 +197,5 @@ Prof. Dr. Ivan Carlos Alcântara de Oliveira
     }
     ```
     
-    ![Captura de Tela 2023-08-14 às 21.05.56.png](Aula%201%20-%20Exerci%CC%81cios%202b40ccf90a5a42758c9f5c3d100a697e/Captura_de_Tela_2023-08-14_as_21.05.56.png)
+    Teste:
+    ![Captura de Tela 2023-08-14 às 21.05.56.png](README/Captura_de_Tela_2023-08-14_as_21.05.56.png)
