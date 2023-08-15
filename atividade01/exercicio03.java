@@ -3,9 +3,9 @@ import java.util.Scanner;
 public class exercicio03 {
     public static void main(String[] args) {
         int n;
-        Scanner s = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in);
 
-        n = s.nextInt();
+        n = scan.nextInt();
 
         double e = 1.0f;
         int fat = 1;
