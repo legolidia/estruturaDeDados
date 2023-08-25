@@ -35,5 +35,6 @@ class exercicio02 {
     System.out.format("A duração da viagem foi de %d horas, %d minutos e %d segundos, totalizando R$%.2f.", h, min, s,
         total);
 
+    scan.close();
   }
 }

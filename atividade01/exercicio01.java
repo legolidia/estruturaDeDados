@@ -23,5 +23,7 @@ class exercicio01 {
 
     System.out.println("Sao necessarios " + Math.ceil(barris) + " barris de petroleo de 200L para encher os tanques");
 
+
+    s.close();
   }
 }

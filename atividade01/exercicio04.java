@@ -18,5 +18,7 @@ public class exercicio04 {
       System.out.print(f[i] + " ");
     }
 
+    scan.close();
+
   }
 }

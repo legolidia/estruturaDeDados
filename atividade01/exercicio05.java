@@ -34,5 +34,6 @@ public class exercicio05 {
     for (int i = 0; i < v2.size(); i++)
       System.out.print(v2.get(i) + " ");
 
+    scan.close();
   }
 }
