@@ -1,3 +1,5 @@
+//devido a problemas com o terminal, deve-se usar o comando chcp 1252 no windows para que o programa funcione corretamente com acentos
+
 package ex5_desafio;
 
 import java.util.*;

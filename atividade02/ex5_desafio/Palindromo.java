@@ -3,7 +3,7 @@ package ex5_desafio;
 import java.text.Normalizer;
 
 public class Palindromo {
-  String texto;
+  private String texto;
 
   public Palindromo() {
     this.texto = "";

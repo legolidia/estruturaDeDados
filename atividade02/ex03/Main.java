@@ -15,6 +15,7 @@ public class Main {
 			System.out.println("\nNúmero de trabalhadores inválido. Digite novamente:");
 			n = scan.nextInt();
 		}
+		
 		scan.nextLine();
 
 		System.out.println("\nDigite os dados dos trabalhadores:");
@@ -36,6 +37,7 @@ public class Main {
 
 			System.out.println("Sexo: (M ou F)");
 			char sexo = scan.nextLine().charAt(0);
+			sexo = Character.toUpperCase(sexo);
 
 			System.out.println("Endereço: ");
 			String endereco = scan.nextLine();
@@ -53,6 +55,7 @@ public class Main {
 
 		for (int i = 0; i < n; i++) {
 			mediaSalario += trabalhadores[i].getSalario();
+
 			if (trabalhadores[i].getSalario() > maiorSalario) {
 				maiorSalario = trabalhadores[i].getSalario();
 				trabMaiorSalario = trabalhadores[i];
@@ -65,12 +68,13 @@ public class Main {
 
 		System.out.println("\n\nHomens com salário acima da média:");
 		int j = 0;
-		for (int i = 0; i < n; i++) {
+
+		for (int i = 0; i < n; i++) 
 			if (trabalhadores[i].getSalario() > mediaSalario && trabalhadores[i].getSexo() == 'M') {
 				trabalhadores[i].mostra();
 				j++;
 			}
-		}
+		
 		if (j == 0)
 			System.out.println("Não há homens com salário acima da média.");
 
@@ -100,6 +104,7 @@ public class Main {
 		System.out
 				.format("\nO trabalhador que ganha mais é " + trabMaiorSalario.getNome() + " com salário de R$%.2f\n",
 						maiorSalario);
+
 		trabMaiorSalario.mostra();
 
 		for (int i = 0; i < n; i++)

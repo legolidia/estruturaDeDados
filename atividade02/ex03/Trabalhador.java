@@ -1,12 +1,12 @@
 package ex03;
 
 public class Trabalhador {
-	String nome;
-	float salario;
-	String cpf;
-	int idade;
-	char sexo;
-	String endereco;
+	private String nome;
+	private float salario;
+	private String cpf;
+	private int idade;
+	private char sexo;
+	private String endereco;
 
 	public Trabalhador() {
 	}

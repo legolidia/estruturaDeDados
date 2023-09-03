@@ -1,14 +1,14 @@
 public class Aluno {
-  String rgm;
-  String nome;
-  char sexo;
-  float notaA;
-  float notaB;
-  float notaC;
-  float notaD;
+
+  private String rgm;
+  private String nome;
+  private char sexo;
+  private float notaA;
+  private float notaB;
+  private float notaC;
+  private float notaD;
 
   public Aluno() {
-
   }
 
   public Aluno(String rgm, String nome) {
