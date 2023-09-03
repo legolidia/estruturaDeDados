@@ -1,4 +1,4 @@
-public class Aluno{
+public class Aluno {
   String rgm;
   String nome;
   char sexo;
@@ -7,18 +7,18 @@ public class Aluno{
   float notaC;
   float notaD;
 
-  public Aluno(){
+  public Aluno() {
 
   }
 
-  public Aluno(String rgm, String nome){
+  public Aluno(String rgm, String nome) {
     this.rgm = rgm;
     this.nome = nome;
   }
 
-  public Aluno(String rgm, String nome, char sexo, float notaA, float notaB, float notaC, float notaD){
+  public Aluno(String rgm, String nome, char sexo, float notaA, float notaB, float notaC, float notaD) {
     this.rgm = rgm;
-    this.nome = nome; 
+    this.nome = nome;
     this.sexo = sexo;
     this.notaA = notaA;
     this.notaB = notaB;
@@ -26,71 +26,74 @@ public class Aluno{
     this.notaD = notaD;
   }
 
-  public float calculaMedia(){
+  public float calculaMedia() {
     return (this.notaA + this.notaB + this.notaC + this.notaD) / 4;
   }
 
-  public void mostraDados(){
-    System.out.format("RGM: " + this.rgm + "\nNome: " + this.nome + "\nSexo: " + this.sexo + "\nNota A: " + this.notaA + "\nNota B: " + this.notaB + "\nNota C: " + this.notaC + "\nNota D: " + this.notaD + "\nMédia: %.1f" + "\nSituação: " + (this.avaliaSituacao() ? "Aprovado" : "Reprovado") + "\n", this.calculaMedia());
+  public void mostraDados() {
+    System.out.format("RGM: " + this.rgm + "\nNome: " + this.nome + "\nSexo: " + this.sexo +
+        "\nNota A: " + this.notaA + "\nNota B: " + this.notaB + "\nNota C: " + this.notaC + "\nNota D: "
+        + this.notaD + "\nMédia: %.1f" + "\nSituação: " + (this.avaliaSituacao() ? "Aprovado" : "Reprovado") +
+        "\n", this.calculaMedia());
   }
 
-  public boolean avaliaSituacao(){
+  public boolean avaliaSituacao() {
     return (this.calculaMedia() >= 6);
   }
 
-  public void setRgm(String rgm){
+  public void setRgm(String rgm) {
     this.rgm = rgm;
   }
 
-  public void setNome(String nome){
+  public void setNome(String nome) {
     this.nome = nome;
   }
 
-  public void setSexo(char sexo){
+  public void setSexo(char sexo) {
     this.sexo = sexo;
   }
 
-  public void setNotaA(float notaA){
+  public void setNotaA(float notaA) {
     this.notaA = notaA;
   }
 
-  public void setNotaB(float notaB){
+  public void setNotaB(float notaB) {
     this.notaB = notaB;
   }
 
-  public void setNotaC(float notaC){
+  public void setNotaC(float notaC) {
     this.notaC = notaC;
   }
 
-  public void setNotaD(float notaD){
+  public void setNotaD(float notaD) {
     this.notaD = notaD;
   }
 
-  public String getRgm(){
+  public String getRgm() {
     return this.rgm;
   }
 
-  public String getNome(){
+  public String getNome() {
     return this.nome;
   }
 
-  public char getSexo(){
+  public char getSexo() {
     return this.sexo;
   }
 
-  public float getNotaA(){
+  public float getNotaA() {
     return this.notaA;
   }
 
-  public float getNotaB(){
+  public float getNotaB() {
     return this.notaB;
   }
 
-  public float getNotaC(){
+  public float getNotaC() {
     return this.notaC;
   }
 
-  public float getNotaD(){
+  public float getNotaD() {
     return this.notaD;
   }
 
