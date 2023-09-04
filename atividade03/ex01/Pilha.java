@@ -1,4 +1,4 @@
-package ex03;
+package ex01;
 
 public class Pilha {
     private int p[];
@@ -24,7 +24,7 @@ public class Pilha {
     }
 
     public void push(int dado) {
-        if (!isFull) {
+        if (!isFull()) {
             p[++topoPilha] = dado;
             return;
         }
@@ -39,11 +39,11 @@ public class Pilha {
         return -1;
     }
 
-    public int topo(){
+    public int topo() {
         return p[topoPilha];
     }
 
-    public int sizeElements(){
+    public int sizeElements() {
         return topoPilha;
     }
 

@@ -3,7 +3,7 @@ package ex01;
 public class Palindromo {
   String texto;
 
-  public Palindromo(){
+  public Palindromo() {
     this.texto = "";
   }
 
@@ -12,7 +12,7 @@ public class Palindromo {
   }
 
   public void setTexto(String texto) {
-    if (texto != null) 
+    if (texto != null)
       this.texto = texto;
   }
 
@@ -20,22 +20,22 @@ public class Palindromo {
     return this.texto;
   }
 
-  public boolean verificar(){
+  public boolean verificar() {
 
     Pilha pilha = new Pilha(this.texto.length());
     Pilha pilhaInvertida = new Pilha();
 
-    for(int i=0; i<pilha.sizeElements(); i++)
-        pilha.push(this.texto.charAt(i));
-     
-    for(int i=pilha.sizeElements-1; i>=0; i--)
-        pilhaInvertida.push(this.texto.charAt(i));
+    for (int i = 0; i < pilha.sizeElements(); i++)
+      pilha.push(this.texto.charAt(i));
 
-    while(!pilha.isEmpty){
-        if(pilha.topo().equals(!pilhaInvertida.topo()))
-            return false;
+    for (int i = pilha.sizeElements() - 1; i >= 0; i--)
+      pilhaInvertida.push(this.texto.charAt(i));
+
+    while (!pilha.isEmpty()) {
+
     }
 
     return true;
 
+  }
 }

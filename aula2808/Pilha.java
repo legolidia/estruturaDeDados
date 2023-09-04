@@ -24,7 +24,7 @@ public class Pilha {
     }
 
     public void push(int dado) {
-        if (!isFull) {
+        if (!isFull()) {
             p[++topoPilha] = dado;
             return;
         }
