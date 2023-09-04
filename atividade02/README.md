@@ -1,14 +1,10 @@
+<img width="50px" src="https://lh6.googleusercontent.com/UeNX4Bekp6xhv_6cwTpwk2nzDHYksaQSNK5e9-bp74Qv7hX-DZMveL1nbuBMXAaR9l_-Xt_ZZByMGmrv-dBEYV8_Kuel_iITZAQeQKIImTChb6O59RZprH9Ej-GqTheWR5irdwIu1k9sqp1-NAlIlbbloBOWK4VM"/>
+
 # Aula 3 - Exercícios 2
 
-[https://lh6.googleusercontent.com/UeNX4Bekp6xhv_6cwTpwk2nzDHYksaQSNK5e9-bp74Qv7hX-DZMveL1nbuBMXAaR9l_-Xt_ZZByMGmrv-dBEYV8_Kuel_iITZAQeQKIImTChb6O59RZprH9Ej-GqTheWR5irdwIu1k9sqp1-NAlIlbbloBOWK4VM](https://lh6.googleusercontent.com/UeNX4Bekp6xhv_6cwTpwk2nzDHYksaQSNK5e9-bp74Qv7hX-DZMveL1nbuBMXAaR9l_-Xt_ZZByMGmrv-dBEYV8_Kuel_iITZAQeQKIImTChb6O59RZprH9Ej-GqTheWR5irdwIu1k9sqp1-NAlIlbbloBOWK4VM)
-
-**UNIVERSIDADE PRESBITERIANA MACKENZIE** 
-
-**Faculdade de Computação e Informática**
-
+### UNIVERSIDADE PRESBITERIANA MACKENZIE
+**Faculdade de Computação e Informática**<br>
 Prof. Dr. Ivan Carlos Alcântara de Oliveira
-
-[https://lh5.googleusercontent.com/q758zGHEMMV-xyeKmRiP_r-7EDAUALBdGcaCjj27JSrCH_Zb2WsVK1xOMGGMSX3DDpVVjQJsK3ERcMrJB0Ld8ricHf6VR4ZZt_JEOA3BSUEvGhmjAZLhEODj4vSQdvkg4Gi3zAM3a0DHLmD6iohCUxNgGeDpQG83](https://lh5.googleusercontent.com/q758zGHEMMV-xyeKmRiP_r-7EDAUALBdGcaCjj27JSrCH_Zb2WsVK1xOMGGMSX3DDpVVjQJsK3ERcMrJB0Ld8ricHf6VR4ZZt_JEOA3BSUEvGhmjAZLhEODj4vSQdvkg4Gi3zAM3a0DHLmD6iohCUxNgGeDpQG83)
 
 **Estruturas de Dados I**
 
@@ -18,7 +14,7 @@ Prof. Dr. Ivan Carlos Alcântara de Oliveira
 | --- | --- |
 | Lidia Carolina de Andrade Rosa | 32281374 |
 
-[https://github.com/legolidia/estruturaDeDados.git](https://github.com/legolidia/estruturaDeDados.git)
+[https://github.com/legolidia/estruturaDeDados.git](https://github.com/legolidia/estruturaDeDados/tree/main/atividade02)
 
 - Exercício 1
     
@@ -107,7 +103,7 @@ Prof. Dr. Ivan Carlos Alcântara de Oliveira
     
     Teste:
     
-    ![Untitled](Aula%203%20-%20Exerci%CC%81cios%202%2095c6b992e1314fd18fa60764850c0820/Untitled.png)
+    ![Untitled](README/Untitled.png)
     
 
 - Exercício 2
@@ -169,7 +165,7 @@ Prof. Dr. Ivan Carlos Alcântara de Oliveira
     
     Teste:
     
-    ![Untitled](Aula%203%20-%20Exerci%CC%81cios%202%2095c6b992e1314fd18fa60764850c0820/Untitled%201.png)
+    ![Untitled](README/Untitled%201.png)
     
 - Exercício 3
     
@@ -398,11 +394,11 @@ Prof. Dr. Ivan Carlos Alcântara de Oliveira
     
     Teste:
     
-    ![Untitled](Aula%203%20-%20Exerci%CC%81cios%202%2095c6b992e1314fd18fa60764850c0820/Untitled%202.png)
+    ![Untitled](README/Untitled%202.png)
     
-    ![Untitled](Aula%203%20-%20Exerci%CC%81cios%202%2095c6b992e1314fd18fa60764850c0820/Untitled%203.png)
+    ![Untitled](README/Untitled%203.png)
     
-    ![Untitled](Aula%203%20-%20Exerci%CC%81cios%202%2095c6b992e1314fd18fa60764850c0820/Untitled%204.png)
+    ![Untitled](README/Untitled%204.png)
     
 
 - Exercício 4
@@ -531,7 +527,7 @@ Prof. Dr. Ivan Carlos Alcântara de Oliveira
     
     Teste:
     
-    ![Untitled](Aula%203%20-%20Exerci%CC%81cios%202%2095c6b992e1314fd18fa60764850c0820/Untitled%205.png)
+    ![Untitled](README/Untitled%205.png)
     
 
 - Exercício 5
@@ -616,4 +612,4 @@ Prof. Dr. Ivan Carlos Alcântara de Oliveira
     
     Teste
     
-    ![Untitled](Aula%203%20-%20Exerci%CC%81cios%202%2095c6b992e1314fd18fa60764850c0820/Untitled%206.png)
+    ![Untitled](README/Untitled%206.png)
