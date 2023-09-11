@@ -1,4 +1,4 @@
-package atividade03_Pilha.ex01;
+package atividade03_Pilha.ex02;
 
 public class Pilha {
 
