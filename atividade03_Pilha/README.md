@@ -183,9 +183,9 @@ Prof. Dr. Ivan Carlos Alcântara de Oliveira
     
     Teste:
     
-    ![README](Exerci%CC%81cios%20-%203%205a1e6b0de1e94bf1b9737db485bd4bb8/README.png)
+    ![Untitled](README/Untitled.png)
     
-    ![README](Exerci%CC%81cios%20-%203%205a1e6b0de1e94bf1b9737db485bd4bb8/README%201.png)
+    ![Untitled](README/Untitled%201.png)
     
 
 - Exercício 2
@@ -375,9 +375,9 @@ Prof. Dr. Ivan Carlos Alcântara de Oliveira
     
     Teste:
     
-    ![README](Exerci%CC%81cios%20-%203%205a1e6b0de1e94bf1b9737db485bd4bb8/README%202.png)
+    ![Untitled](README/Untitled%202.png)
     
-    ![README](Exerci%CC%81cios%20-%203%205a1e6b0de1e94bf1b9737db485bd4bb8/README%203.png)
+    ![Untitled](README/Untitled%203.png)
     
 
 - Exercício 3
@@ -569,6 +569,6 @@ Prof. Dr. Ivan Carlos Alcântara de Oliveira
     
     Teste:
     
-    ![README](Exerci%CC%81cios%20-%203%205a1e6b0de1e94bf1b9737db485bd4bb8/README%204.png)
+    ![Untitled](README/Untitled%204.png)
     
-    ![README](Exerci%CC%81cios%20-%203%205a1e6b0de1e94bf1b9737db485bd4bb8/README%205.png)
+    ![Untitled](README/Untitled%205.png)
