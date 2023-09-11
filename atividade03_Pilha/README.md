@@ -1,6 +1,6 @@
 # Exercícios - 3
 
-![https://lh6.googleusercontent.com/UeNX4Bekp6xhv_6cwTpwk2nzDHYksaQSNK5e9-bp74Qv7hX-DZMveL1nbuBMXAaR9l_-Xt_ZZByMGmrv-dBEYV8_Kuel_iITZAQeQKIImTChb6O59RZprH9Ej-GqTheWR5irdwIu1k9sqp1-NAlIlbbloBOWK4VM](https://lh6.googleusercontent.com/UeNX4Bekp6xhv_6cwTpwk2nzDHYksaQSNK5e9-bp74Qv7hX-DZMveL1nbuBMXAaR9l_-Xt_ZZByMGmrv-dBEYV8_Kuel_iITZAQeQKIImTChb6O59RZprH9Ej-GqTheWR5irdwIu1k9sqp1-NAlIlbbloBOWK4VM)
+<img src="https://lh6.googleusercontent.com/UeNX4Bekp6xhv_6cwTpwk2nzDHYksaQSNK5e9-bp74Qv7hX-DZMveL1nbuBMXAaR9l_-Xt_ZZByMGmrv-dBEYV8_Kuel_iITZAQeQKIImTChb6O59RZprH9Ej-GqTheWR5irdwIu1k9sqp1-NAlIlbbloBOWK4VM" width=50>
 
 **UNIVERSIDADE PRESBITERIANA MACKENZIE** 
 
@@ -8,7 +8,7 @@
 
 Prof. Dr. Ivan Carlos Alcântara de Oliveira
 
-![https://lh5.googleusercontent.com/q758zGHEMMV-xyeKmRiP_r-7EDAUALBdGcaCjj27JSrCH_Zb2WsVK1xOMGGMSX3DDpVVjQJsK3ERcMrJB0Ld8ricHf6VR4ZZt_JEOA3BSUEvGhmjAZLhEODj4vSQdvkg4Gi3zAM3a0DHLmD6iohCUxNgGeDpQG83](https://lh5.googleusercontent.com/q758zGHEMMV-xyeKmRiP_r-7EDAUALBdGcaCjj27JSrCH_Zb2WsVK1xOMGGMSX3DDpVVjQJsK3ERcMrJB0Ld8ricHf6VR4ZZt_JEOA3BSUEvGhmjAZLhEODj4vSQdvkg4Gi3zAM3a0DHLmD6iohCUxNgGeDpQG83)
+<img src ="https://lh5.googleusercontent.com/q758zGHEMMV-xyeKmRiP_r-7EDAUALBdGcaCjj27JSrCH_Zb2WsVK1xOMGGMSX3DDpVVjQJsK3ERcMrJB0Ld8ricHf6VR4ZZt_JEOA3BSUEvGhmjAZLhEODj4vSQdvkg4Gi3zAM3a0DHLmD6iohCUxNgGeDpQG83" width=50>
 
 **Estruturas de Dados I**
 
